@@ -25,7 +25,7 @@ class Order(Base):
     status = Column(Enum(OrderStatus), default=OrderStatus.PENDING)
     # ✅ Relationship with Customer
     customer = relationship("Customer", back_populates="orders")
-    
+
 
 class Customer(Base):
     __tablename__ = "customers"
