@@ -1,0 +1,184 @@
+2025-02-17 12:30:38,403 - ====== WebDriver manager ======
+2025-02-17 12:30:39,807 - Get LATEST chromedriver version for google-chrome
+2025-02-17 12:30:39,989 - Get LATEST chromedriver version for google-chrome
+2025-02-17 12:30:40,157 - Get LATEST chromedriver version for google-chrome
+2025-02-17 12:30:40,616 - WebDriver version 133.0.6943.98 selected
+2025-02-17 12:30:40,619 - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.98/win32/chromedriver-win32.zip
+2025-02-17 12:30:40,619 - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.98/win32/chromedriver-win32.zip
+2025-02-17 12:30:41,160 - Driver downloading response is 200
+2025-02-17 12:31:25,868 - Get LATEST chromedriver version for google-chrome
+2025-02-17 12:31:26,412 - Driver has been saved in cache [C:\Users\91780\.wdm\drivers\chromedriver\win64\133.0.6943.98]
+2025-02-17 12:31:31,807 - Extracting elements from: https://www.dell.com/support/home/en-us
+2025-02-17 12:31:32,065 - Image Source: https://www.dellcdn.com/support/home/bundle/img/herosmnoauth.png, Alt Text: 
+2025-02-17 12:31:32,148 - Link Text: Skip to main content, URL: https://www.dell.com/support/home/en-in#mh-main
+2025-02-17 12:31:32,244 - Link Text: Icon found, URL: https://www.dell.com/en-in
+2025-02-17 12:31:32,264 - Link Text: Sign In, URL: No URL
+2025-02-17 12:31:32,282 - Link Text: , URL: No URL
+2025-02-17 12:31:32,306 - Link Text: Dell Technologies, URL: https://www.dell.com/en-in
+2025-02-17 12:31:32,340 - Link Text: Premier Sign In, URL: https://www.dell.com/premier/home
+2025-02-17 12:31:32,359 - Link Text: Partner Program Sign In, URL: https://www.delltechnologies.com/partner/en-in/auth/partner-portal.htm
+2025-02-17 12:31:32,372 - Link Text: Support, URL: https://www.dell.com/support/home/en-in
+2025-02-17 12:31:32,385 - Link Text: Dell Technologies, URL: https://www.dell.com/en-in
+2025-02-17 12:31:32,451 - Link Text: Premier Sign In, URL: https://www.dell.com/premier/home
+2025-02-17 12:31:32,460 - Link Text: Partner Program Sign In, URL: https://www.delltechnologies.com/partner/en-in/auth/partner-portal.htm
+2025-02-17 12:31:32,470 - Link Text: Support, URL: https://www.dell.com/support/home/en-in
+2025-02-17 12:31:32,478 - Link Text: My Account, URL: https://www.dell.com/myaccount/en-in
+2025-02-17 12:31:32,487 - Link Text: Order Status, URL: https://www.dell.com/myaccount/en-in/orders
+2025-02-17 12:31:32,496 - Link Text: Profile Settings, URL: https://www.dell.com/myaccount/en-in/account-settings/profile
+2025-02-17 12:31:32,505 - Link Text: My Products, URL: https://www.dell.com/support/mps/en-in/myproducts
+2025-02-17 12:31:32,514 - Link Text: Sign Out, URL: https://www.dell.com/di/v3/fp/session/logout/3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a?redirect_uri=
+2025-02-17 12:31:32,526 - Link Text: Sign In, URL: https://www.dell.com/di/v3/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&redirect_uri=
+2025-02-17 12:31:32,535 - Link Text: Create an Account, URL: https://www.dell.com/di/v3/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&action=register&redirect_uri=
+2025-02-17 12:31:32,544 - Link Text: Premier Sign In, URL: https://www.dell.com/premier/home
+2025-02-17 12:31:32,553 - Link Text: Partner Program Sign In, URL: https://www.delltechnologies.com/partner/en-in/auth/partner-portal.htm
+2025-02-17 12:31:32,563 - Link Text: Contact Us, URL: https://www.dell.com/en-in/lp/contact-us
+2025-02-17 12:31:32,572 - Link Text: IN/EN, URL: No URL
+2025-02-17 12:31:32,582 - Link Text: Cart, URL: No URL
+2025-02-17 12:31:32,592 - Link Text: , URL: No URL
+2025-02-17 12:31:32,603 - Link Text: Products, URL: https://www.dell.com/en-in
+2025-02-17 12:31:32,611 - Link Text: Solutions, URL: https://www.dell.com/en-in/lp/dt/solutions
+2025-02-17 12:31:32,621 - Link Text: Services, URL: https://www.dell.com/en-in/lp/dt/services
+2025-02-17 12:31:32,629 - Link Text: Support Home, URL: https://www.dell.com/support/home/en-in
+2025-02-17 12:31:32,639 - Link Text: Support Library, URL: https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase
+2025-02-17 12:31:32,647 - Link Text: Support Videos, URL: https://www.dell.com/support/contents/en-in/videos
+2025-02-17 12:31:32,656 - Link Text: Support Services & Warranty, URL: https://www.dell.com/support/contractservices/en-in/
+2025-02-17 12:31:32,665 - Link Text: Drivers & Downloads, URL: https://www.dell.com/support/home/en-in?app=drivers
+2025-02-17 12:31:32,674 - Link Text: Manuals & Documentation, URL: https://www.dell.com/support/home/en-in?app=manuals
+2025-02-17 12:31:32,683 - Link Text: PC Diagnostics, URL: https://www.dell.com/support/home/en-in/quicktest
+2025-02-17 12:31:32,693 - Link Text: Self-Repair & Parts, URL: https://www.dell.com/support/contents/en-in/article/warranty/Self-Repair
+2025-02-17 12:31:32,703 - Link Text: Service Requests & Dispatch Status, URL: https://www.dell.com/support/incidents-online/en-in/srsearch
+2025-02-17 12:31:32,712 - Link Text: Order Support, URL: https://www.dell.com/support/order-status/en-in/order-support
+2025-02-17 12:31:32,721 - Link Text: Contact Technical Support, URL: https://www.dell.com/support/incidents-online/en-in/contactus/dynamic?spestate
+2025-02-17 12:31:32,729 - Link Text: Community, URL: https://www.dell.com/community/en/categories/dell-community
+2025-02-17 12:31:32,738 - Link Text: Contact Us, URL: https://www.dell.com/en-in/lp/contact-us
+2025-02-17 12:31:32,746 - Link Text: Sign In, URL: https://www.dell.com/dci/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&redirect_uri=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-in
+2025-02-17 12:31:32,754 - Link Text: Create an Account, URL: https://www.dell.com/di/v3/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&action=register&redirect_uri=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-in
+2025-02-17 12:31:32,762 - Link Text: Visit our business support site, URL: https://www.dell.com/dci/fp/session/authorize?client_id=3a4eea6a-4a4e-4f2e-be4a-adc5d51a357a&redirect_uri=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-in
+2025-02-17 12:31:32,775 - Link Text: Need help with Windows?, URL: https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase/operating-systems/windows-operating-systems
+2025-02-17 12:31:32,783 - Link Text: Update Drivers, URL: https://www.dell.com/support/home/en-in?app=drivers
+2025-02-17 12:31:32,792 - Link Text: Scan Hardware, URL: https://www.dell.com/support/home/en-in/quicktest
+2025-02-17 12:31:32,800 - Link Text: Visit Service Requests, URL: https://www.dell.com/support/incidents-online/en-in/srsearch
+2025-02-17 12:31:32,809 - Link Text: Manage Support Services, URL: https://www.dell.com/support/home/en-in?app=warranty
+2025-02-17 12:31:32,817 - Link Text: Find Order Status, URL: https://www.dell.com/support/order-status/en-in/order-support
+2025-02-17 12:31:32,825 - Link Text: click here, URL: https://www.dell.com/support/kbdoc/000021768
+2025-02-17 12:31:32,834 - Link Text: How to find your product identifier, URL: javascript:void(0);
+2025-02-17 12:31:32,843 - Link Text: detect this PC automatically, URL: javascript:void(0);
+2025-02-17 12:31:32,851 - Link Text: Find Articles, URL: https://www.dell.com/support/contents/en-in/category/product-support/self-support-knowledgebase
+2025-02-17 12:31:32,859 - Link Text: Watch Support Videos, URL: https://www.dell.com/support/contents/en-in/videos
+2025-02-17 12:31:32,868 - Link Text: Join Community, URL: https://www.dell.com/community/Dell-Community/ct-p/English?profile.language=en
+2025-02-17 12:31:32,875 - Link Text: Find Manuals, URL: https://www.dell.com/support/home/en-in?app=manuals
+2025-02-17 12:31:32,884 - Link Text: Services management and analytics for IT infrastructure., URL: https://www.dell.com/support/myservice360/en-in
+2025-02-17 12:31:32,892 - Link Text: Procedures to install, upgrade and replace IT infrastructure., URL: https://solve.dell.com/solve/home
+2025-02-17 12:31:32,901 - Link Text: Self-dispatches and monitoring for client devices and servers., URL: https://techdirect.dell.com/portal/Login.aspx
+2025-02-17 12:31:32,909 - Link Text: Manage Subscriptions, URL: https://www.dell.com/support/home/en-in?app=licenses
+2025-02-17 12:31:32,918 - Link Text: Sign In, URL: https://www.dell.com/support/mps/en-in
+2025-02-17 12:31:32,926 - Link Text: Sign In, URL: https://www.dell.com/myaccount/en-in/overview
+2025-02-17 12:31:32,934 - Link Text: Contact Support, URL: https://www.dell.com/support/contents/en-in/category/contact-information
+2025-02-17 12:31:32,943 - Link Text: IN/EN, URL: No URL
+2025-02-17 12:31:32,954 - Link Text: Site Map, URL: https://www.dell.com/en-in/sitemap
+2025-02-17 12:31:32,963 - Link Text: My Account, URL: https://www.dell.com/myaccount/en-in
+2025-02-17 12:31:32,978 - Link Text: Order Status, URL: https://www.dell.com/myaccount/en-in/orders
+2025-02-17 12:31:32,987 - Link Text: Profile Settings, URL: https://www.dell.com/myaccount/en-in/account-settings/profile
+2025-02-17 12:31:32,997 - Link Text: My Products, URL: https://www.dell.com/support/mps/en-in/myproducts
+2025-02-17 12:31:33,018 - Link Text: Support Home, URL: https://www.dell.com/support/home/en-in
+2025-02-17 12:31:33,028 - Link Text: Contact Technical Support, URL: https://www.dell.com/support/incidents-online/en-in/contactus/dynamic?spestate
+2025-02-17 12:31:33,036 - Link Text: Returns, URL: https://www.dell.com/en-in/lp/return-policy
+2025-02-17 12:31:33,045 - Link Text: Community, URL: https://www.dell.com/community/en/categories/dell-community
+2025-02-17 12:31:33,055 - Link Text: Contact Us, URL: https://www.dell.com/en-in/lp/contact-us
+2025-02-17 12:31:33,062 - Link Text: Site Map, URL: https://www.dell.com/en-in/sitemap
+2025-02-17 12:31:33,075 - Link Text: IN/EN, URL: No URL
+2025-02-17 12:31:33,085 - Link Text: Artificial Intelligence, URL: https://www.dell.com/en-in/dt/solutions/artificial-intelligence/index.htm
+2025-02-17 12:31:33,093 - Link Text: Products, URL: https://www.dell.com/en-in
+2025-02-17 12:31:33,102 - Link Text: Solutions, URL: https://www.dell.com/en-in/lp/dt/solutions
+2025-02-17 12:31:33,110 - Link Text: Services, URL: https://www.dell.com/en-in/lp/dt/services
+2025-02-17 12:31:33,130 - Link Text: Deals, URL: https://www.dell.com/en-in/shop/deals
+2025-02-17 12:31:33,144 - Link Text: Who We Are, URL: https://www.dell.com/en-in/lp/dt/who-we-are
+2025-02-17 12:31:33,152 - Link Text: Careers, URL: https://jobs.dell.com/
+2025-02-17 12:31:33,161 - Link Text: Dell Technologies Capital, URL: https://www.delltechnologiescapital.com/
+2025-02-17 12:31:33,169 - Link Text: Investors, URL: https://investors.delltechnologies.com/
+2025-02-17 12:31:33,178 - Link Text: Newsroom, URL: https://www.dell.com/en-in/dt/corporate/newsroom.htm
+2025-02-17 12:31:33,201 - Link Text: Recycling, URL: https://www.dell.com/en-in/dt/corporate/social-impact/reporting/policies-and-positions/weee-consumer-legislation.htm#tab0=1
+2025-02-17 12:31:33,211 - Link Text: ESG & Impact, URL: https://www.dell.com/en-in/dt/corporate/social-impact.htm
+2025-02-17 12:31:33,221 - Link Text: Customer Stories, URL: https://www.dell.com/en-in/lp/dt/customer-stories
+2025-02-17 12:31:33,230 - Link Text: Find a Partner, URL: https://dell.my.site.com/FindAPartner/s/partnersearch?language=en&country=in
+2025-02-17 12:31:33,240 - Link Text: OEM Solutions, URL: https://www.dell.com/en-in/lp/dt/oem-solutions
+2025-02-17 12:31:33,248 - Link Text: Partner Program, URL: https://www.delltechnologies.com/partner/en-in/partner/partner.htm
+2025-02-17 12:31:33,257 - Link Text: Blog, URL: https://www.dell.com/en-in/blog/
+2025-02-17 12:31:33,266 - Link Text: Dell Rewards, URL: https://www.dell.com/en-in/lp/dell-rewards-program
+2025-02-17 12:31:33,275 - Link Text: Events, URL: https://www.dell.com/en-in/dt/events/index.htm
+2025-02-17 12:31:33,285 - Link Text: Email Sign-Up, URL: https://campaign.dell.com/webApp/unifiedSignUp?lang=EN&country=IN
+2025-02-17 12:31:33,294 - Link Text: Privacy Centre, URL: https://www.dell.com/en-in/lp/privacy-center
+2025-02-17 12:31:33,304 - Link Text: Security & Trust Centre, URL: https://www.dell.com/en-in/dt/about-us/security-and-trust-center/index.htm
+2025-02-17 12:31:33,313 - Link Text: Trial Software Downloads, URL: https://www.dell.com/en-in/dt/software-downloads/index.htm
+2025-02-17 12:31:33,322 - Link Text: Dell Technologies, URL: https://www.dell.com/en-in
+2025-02-17 12:31:33,332 - Link Text: Dell Premier, URL: https://www.dell.com/en-in/lp/dt/dell-premier
+2025-02-17 12:31:33,342 - Link Text: Copyright © 2025 Dell Inc., URL: https://www.dell.com/en-in/lp/legal/site-terms-of-use-copyright
+2025-02-17 12:31:33,350 - Link Text: Terms of Sale, URL: https://www.dell.com/en-in/lp/legal/terms-of-sale
+2025-02-17 12:31:33,358 - Link Text: Privacy Statement, URL: https://www.dell.com/en-in/lp/legal/policies-privacy
+2025-02-17 12:31:33,368 - Link Text: Cookies, Ads & Emails, URL: https://www.dell.com/en-in/lp/legal/policies-cookies-ads-emails
+2025-02-17 12:31:33,376 - Link Text: Legal & Regulatory, URL: https://www.dell.com/en-in/lp/legal/terms
+2025-02-17 12:31:33,384 - Link Text: Accessibility, URL: https://www.dell.com/en-in/lp/accessibility
+2025-02-17 12:31:33,400 - Button: 
+2025-02-17 12:31:33,410 - Button: No Text
+2025-02-17 12:31:33,422 - Button: 
+2025-02-17 12:31:33,428 - Button: No Text
+2025-02-17 12:31:33,439 - Button: 
+2025-02-17 12:31:33,445 - Button: No Text
+2025-02-17 12:31:33,454 - Button: 
+2025-02-17 12:31:33,462 - Button: No Text
+2025-02-17 12:31:33,466 - Button: Support
+2025-02-17 12:31:33,467 - Button: Support
+2025-02-17 12:31:33,471 - Button: Back
+2025-02-17 12:31:33,471 - Button: Back
+2025-02-17 12:31:33,475 - Button: IN/EN
+2025-02-17 12:31:33,475 - Button: IN/EN
+2025-02-17 12:31:33,479 - Button: Back
+2025-02-17 12:31:33,479 - Button: Back
+2025-02-17 12:31:33,484 - Button: Scan Hardware
+2025-02-17 12:31:33,484 - Button: Scan Hardware
+2025-02-17 12:31:33,494 - Button: 
+2025-02-17 12:31:33,500 - Button: No Text
+2025-02-17 12:31:33,512 - Button: 
+2025-02-17 12:31:33,519 - Button: No Text
+2025-02-17 12:31:33,523 - Button: Search
+2025-02-17 12:31:33,523 - Button: Search
+2025-02-17 12:31:33,528 - Button: Select another device
+                        Select another device
+2025-02-17 12:31:33,529 - Button: Select another device
+                        Select another device
+2025-02-17 12:31:33,533 - Button: Identify Or Search
+2025-02-17 12:31:33,533 - Button: Identify Or Search
+2025-02-17 12:31:33,537 - Button: Detect This PC
+2025-02-17 12:31:33,537 - Button: Detect This PC
+2025-02-17 12:31:33,542 - Button: Recently Viewed
+2025-02-17 12:31:33,542 - Button: Recently Viewed
+2025-02-17 12:31:33,547 - Button: Browse All Products
+2025-02-17 12:31:33,547 - Button: Browse All Products
+2025-02-17 12:31:33,552 - Button: My Products
+2025-02-17 12:31:33,552 - Button: My Products
+2025-02-17 12:31:33,557 - Button: Recommended
+2025-02-17 12:31:33,557 - Button: Recommended
+2025-02-17 12:31:33,561 - Button: Recently Viewed
+2025-02-17 12:31:33,561 - Button: Recently Viewed
+2025-02-17 12:31:33,567 - Button: Most Popular
+2025-02-17 12:31:33,567 - Button: Most Popular
+2025-02-17 12:31:33,578 - Button: 
+2025-02-17 12:31:33,585 - Button: No Text
+2025-02-17 12:31:33,594 - Button: Account
+2025-02-17 12:31:33,594 - Button: Account
+2025-02-17 12:31:33,599 - Button: Support
+2025-02-17 12:31:33,599 - Button: Support
+2025-02-17 12:31:33,603 - Button: Connect with Us
+2025-02-17 12:31:33,604 - Button: Connect with Us
+2025-02-17 12:31:33,608 - Button: Our Offerings
+2025-02-17 12:31:33,608 - Button: Our Offerings
+2025-02-17 12:31:33,612 - Button: Our Company
+2025-02-17 12:31:33,612 - Button: Our Company
+2025-02-17 12:31:33,617 - Button: Our Partners
+2025-02-17 12:31:33,617 - Button: Our Partners
+2025-02-17 12:31:33,621 - Button: Resources
+2025-02-17 12:31:33,621 - Button: Resources
+2025-02-17 12:31:33,632 - Button: 
+2025-02-17 12:31:33,638 - Button: No Text
+2025-02-17 12:31:33,650 - Button: 
+2025-02-17 12:31:33,657 - Button: No Text
